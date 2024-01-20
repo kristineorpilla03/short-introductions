@@ -1,6 +1,6 @@
 # short-introductions
 ## Description
-In this aactivity, each student will create a webpage introducing themselves! Following that, you will answer the question, "If you were stranded on a deserted island, what 3 thingd would you want with you and why?"
+In this activity, each student will create a webpage introducing themselves! Following that, you will answer the question, "If you were stranded on a deserted island, what 3 things would you want with you and why?"
 Level of Difficulty: Beginner
 
 ## Instructions
@@ -25,7 +25,7 @@ Level of Difficulty: Beginner
 Using CSS, style your page however you want! Be as creative as you want! Some useful properties are:
 * color: styles the font color
 * font-size: styles the font size
-* fobt-family: style the font's typeface
+* font-family: style the font's typeface
 * background-color: styles the color of the page's background
 * width: styles the width of an element
 * height: styles the height of an element
