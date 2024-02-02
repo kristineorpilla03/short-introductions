@@ -31,7 +31,29 @@ With CSS, style your page however you want! Be as creative as you want! Some use
       color: red;
   }
 * font-size: styles the font size
+  ```
+  // The font-size of the h1 elements are 20px
+  h1 {
+      font-size: 20px;
+  }
 * font-family: style the font's typeface
+  ```
+  // The font style of the body is 
+  body {
+      font-family: Verdana;
+  }
 * background-color: styles the color of the page's background
+  ```
+  // The background of the website is gray
+  html {
+      background-color: gray;
+  }
 * width: styles the width of an element
 * height: styles the height of an element
+  ```
+  // The size of the img elements are 300px by 300px
+  img {
+      height: 300px;
+      width: 300px;
+  }
+Here is my [example](https://codepen.io/korpilla/pen/mdoLrEL?editors=1100)!
