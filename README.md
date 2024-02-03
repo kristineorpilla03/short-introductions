@@ -1,19 +1,22 @@
 # short-introductions
 ## Description
-In this activity, each student will create a webpage introducing themselves! Following that, you will answer the question, "If you were stranded on a deserted island, what 3 things would you want with you and why?"
-Level of Difficulty: Beginner
+In this activity, each student will create a webpage introducing themselves! Following that, you will answer the question, "If you were stranded on a deserted island, what 3 things would you want with you and why?"<br>
+Level of Difficulty: Beginner<br>
+Here is my [example](https://codepen.io/korpilla/pen/mdoLrEL?editors=1100)!
 
 ## Instructions
 1. Open up [CodePen](https://codepen.io/pen/).
 
 ### Using HTML
 2.  Using the \<h1> tag, state your name or your preferred name you would like us to call you by!
-  ```
+```
 <h1>Your Name</h1>
+```
 
 3.  Using the \<p> tag, include a quote or a song lyric that you really like.
-  ```
-<p>Quote or Song Lyric You Like</p>
+```
+<p>Favorite Song Lyric or Quote</p>
+```
 
 #### A Little About Me Section
 3.  Using the \<h2> tag, label the section "A Little About Me".
@@ -33,6 +36,7 @@ Level of Difficulty: Beginner
     <li>Hobbies</li>
     <img src="">
 </ul>
+```
 
 #### 3 Things I Would Want on a Deserted Island Section
 9.  Using the \<h2> tag, label the section "3 Things I Would Want on a Deserted Island".
@@ -44,6 +48,7 @@ Level of Difficulty: Beginner
     <li>Item 2</li>
     <li>Item 3</li>
 </ol>
+```
     
 ### Using CSS 
 With CSS, style your page however you want! Be as creative as you want! Some useful properties and examples are:
@@ -53,24 +58,28 @@ With CSS, style your page however you want! Be as creative as you want! Some use
   p {
       color: red;
   }
+  ```
 * font-size: styles the font size
   ```
   // The font-size of the h1 elements are 20px
   h1 {
       font-size: 20px;
   }
+  ```
 * font-family: style the font's typeface
   ```
   // The font style of the body is 
   body {
       font-family: Verdana;
   }
+  ```
 * background-color: styles the color of the page's background
   ```
   // The background of the website is gray
   html {
       background-color: gray;
   }
+  ```
 * width: styles the width of an element
 * height: styles the height of an element
   ```
@@ -79,4 +88,4 @@ With CSS, style your page however you want! Be as creative as you want! Some use
       height: 300px;
       width: 300px;
   }
-Here is my [example](https://codepen.io/korpilla/pen/mdoLrEL?editors=1100)!
+  ```
