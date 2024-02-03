@@ -8,7 +8,12 @@ Level of Difficulty: Beginner
 
 ### Using HTML
 2.  Using the \<h1> tag, state your name or your preferred name you would like us to call you by!
+  ```
+<h1>Your Name</h1>
+
 3.  Using the \<p> tag, include a quote or a song lyric that you really like.
+  ```
+<p>Quote or Song Lyric You Like</p>
 
 #### A Little About Me Section
 3.  Using the \<h2> tag, label the section "A Little About Me".
@@ -18,9 +23,27 @@ Level of Difficulty: Beginner
 7.  Using the \<li> tag, state something you love to do in your free time. Using the \<img> tag, include a photo of it also!
 8.  If there is anything else you would love to share with everyone, please add it!
 
+  ```
+<h2>A Little About Me</h2>
+<ul>
+    <li>Favorite Food</li>
+    <img src="">
+    <li>Place to Travel</li>
+    <img src="">
+    <li>Hobbies</li>
+    <img src="">
+</ul>
+
 #### 3 Things I Would Want on a Deserted Island Section
 9.  Using the \<h2> tag, label the section "3 Things I Would Want on a Deserted Island".
 10.  Below this section, create an ordered list using the \<ol> tag and list your 3 items using the \<li> tag.
+  ```
+<h2>3 Things I Would Want on a Deserted Island</h2>
+<ol>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ol>
     
 ### Using CSS 
 With CSS, style your page however you want! Be as creative as you want! Some useful properties and examples are:
