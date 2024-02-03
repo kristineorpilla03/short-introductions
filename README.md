@@ -1,7 +1,7 @@
 # short-introductions
 ## Description
-In this activity, each student will create a webpage introducing themselves! Following that, you will answer the question, "If you were stranded on a deserted island, what 3 things would you want with you and why?"<br>
-Level of Difficulty: Beginner<br>
+In this activity, each student will create a webpage introducing themselves! Following that, you will answer the question, "If you were stranded on a deserted island, what 3 things would you want with you and why?"<br><br>
+Level of Difficulty: Beginner<br><br>
 Here is my [example](https://codepen.io/korpilla/pen/mdoLrEL?editors=1100)!
 
 ## Instructions
